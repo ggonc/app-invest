@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Invest</string>
+    <string name="textValorInicial">Valor inicial:</string>
+    <string name="textAplicacaoMensal">Aplicação mensal:</string>
+    <string name="textTempoAplicacao">Tempo da aplicação:</string>
+    <string name="textTaxa">Taxa:</string>
+    <string name="buttonCalcular">Calcular</string>
+</resources>
